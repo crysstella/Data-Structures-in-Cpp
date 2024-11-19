@@ -1,1 +1,1 @@
-# CSCI133-Data-Structures-in-Cpp
+## CSCI133 Data Structures in C++
