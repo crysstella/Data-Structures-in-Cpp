@@ -1,7 +1,7 @@
 /*
  * assign4_test.cc
  * Assignment 4 (BST) test runner.
- * Name: Vo Nguyen
+ * Name: Stellar Nguyen
  * Last Version: 25 June 2020
  * rotate()
  * splay()

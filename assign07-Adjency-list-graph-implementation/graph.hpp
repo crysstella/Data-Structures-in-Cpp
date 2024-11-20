@@ -2,7 +2,7 @@
 #ifndef GRAPH_HPP
 #define GRAPH_HPP
 /*
- * Name: Vo Nguyen
+ * Name: Stellar Nguyen
  * Date: July 9, 2020
  * graph.hpp
  * Adjency-list graph implementation

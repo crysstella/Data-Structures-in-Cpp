@@ -1,6 +1,5 @@
 /*
- * Name: Vo Nguyen
- * ID: 01739843
+ * Name: Stellar Nguyen
  * Assignment 5: Five different hash function
                  Each function's histogram
  * Date: 30 June 2020

@@ -1,5 +1,5 @@
 /*
-Name: Vo Nguyen
+Name: Stellar Nguyen
 Assignment 6
 Date: 7 July 2020
 bool tokenize(std::string s, std::vector<std::string>& tokens)
